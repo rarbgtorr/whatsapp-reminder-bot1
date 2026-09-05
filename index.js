@@ -1,8 +1,8 @@
 const express = require('express');
 const axios = require('axios');
 
-const ID = "YOUR_IDINSTANCE_HERE";
-const TOKEN = "YOUR_APITOKEN_HERE";
+const ID = "710522729085";
+const TOKEN = "3eb1d6c5a0984d54baa303ec1f723f173d80bffa0e064e66b0";
 const API_URL = `https://api.green-api.com/waInstance${ID}`;
 
 const app = express();
